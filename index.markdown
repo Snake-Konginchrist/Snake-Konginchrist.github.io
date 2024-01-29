@@ -33,7 +33,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - **Dec 2023：**Delighted to gain the Third Prize of the 13th Cross Strait Information Service Innovation Competition.
 - **Dec 2023：**Happy to be awarded the Fuzhou University Cultural and Technological Innovation and Entrepreneurship Scholarship.
-- **May 2023  **Successfully won the Provincial Second Prize in the 16th China University Computer Design Competition.
+- **May 2023: **Successfully won the Provincial Second Prize in the 16th China University Computer Design Competition.
 - **Nov 2022：**Collected the Second Prize in CUMCM 2022 (Top 1%).
 - **Dec 2021: **Successfully won the Provincial Third Prize in National College Student Electronic Design Competition 2021.
 - **Dec 2021: **Successfully won the Provincial Second Prize in the 13th National College Student Mathematics Competition.
