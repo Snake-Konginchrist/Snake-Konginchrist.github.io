@@ -26,13 +26,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter: nake_Kongin
-github: Snake-Konginchrist
-facebook: 100091287335332
-instagram: snake_konginchrist
-threads: snake_konginchrist
-bilibili: 393902946
-zhihu: https://www.zhihu.com/people/snake-konginchrist
+twitter_name: Snake_Kongin
+github_name: Snake-Konginchrist
+# facebook: 100091287335332
+# instagram: snake_konginchrist
+# threads: snake_konginchrist
+# bilibili: 393902946
+# zhihu: https://www.zhihu.com/people/snake-konginchrist
 # Build settings
 theme: minima
 plugins:
