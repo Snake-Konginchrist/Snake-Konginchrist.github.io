@@ -35,5 +35,3 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Nov 2022：**Collected the Second Prize in China Undergraduate Mathematical Contest in Modeling 2022 (Top 1%).
 - **Dec 2021：**Delighted to gain the Provincial Third Prize in National College Student Electronic Design Competition 2021.
 - **Dec 2021：**Delighted to gain the Provincial Second Prize in the 13th National College Student Mathematics Competition.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8635664211577235" crossorigin="anonymous"></script>
