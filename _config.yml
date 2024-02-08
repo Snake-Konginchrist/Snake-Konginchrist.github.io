@@ -71,13 +71,3 @@ links:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-J88TXY88FM"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-J88TXY88FM');
-</script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8635664211577235" crossorigin="anonymous"></script>
